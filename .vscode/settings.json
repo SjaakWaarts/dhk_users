@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "env/bin/python",
+    "python.pythonPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Python36_64\\python.exe",
     "python.linting.pylintEnabled": true,
     "python.linting.pep8Enabled": false,
     "python.linting.enabled": true
